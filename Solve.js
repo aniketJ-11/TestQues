@@ -30,3 +30,19 @@
 // let a = 10, b = 25, c = 15;
 // let largest = a > b ? (a > c ? a : c) : (b > c ? b : c);
 // console.log(largest);
+
+// let person = { name: "Alice", age: 25, city: "New York" };
+// for (let key in person) {
+//     console.log(key + ": " + person[key]);
+// }
+
+// to ternary
+
+// let age = 15;
+// if (age >= 18) {
+//     console.log("Adult");
+// } else if (age >= 13) {
+//     console.log("Teenager");
+// } else {
+//     console.log("Child");
+// }

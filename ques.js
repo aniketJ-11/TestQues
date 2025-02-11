@@ -1,3 +1,6 @@
+//What is the difference between null, undefined, and NaN? Provide examples.
+//How do you convert a string to a number in JavaScript? Show at least two methods.
+
 // What is the for...of loop used for?
 
 // It iterates over iterable objects (arrays, strings, etc.).
